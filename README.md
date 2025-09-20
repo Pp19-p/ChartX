@@ -15,7 +15,9 @@ yaml 0.2.5
 # Dataset
 Public dataset URL:
 https://codeload.github.com/paulorscj/Chart-dataset/zip/refs/heads/master
+
 http://vis.stanford.edu/papers/revision
+
 https://chartinfo.github.io/toolsanddata_2022.html
 
 # Chart Classification
